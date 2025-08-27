@@ -27,7 +27,7 @@ It showcases my projects, skills, and resume in a clean and responsive design.
 ---
 
 ## 🛠️ Tech Stack
-- React.js
+- React.js + Vite
 - HTML5 / CSS3
 - JavaScript (ES6+)
 
