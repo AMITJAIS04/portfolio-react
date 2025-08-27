@@ -9,7 +9,8 @@ Currently, two official plugins are available:
 # Portfolio React
 
 This is my personal portfolio website built using **React.js**.  
-It showcases my projects, skills, and resume in a clean and responsive design.
+I developed this project during my college time to showcase my projects, skills, and resume in a clean and responsive design.  
+It reflects my learning journey and serves as a platform to highlight my work.
 
 ---
 
