@@ -35,4 +35,4 @@ It reflects my learning journey and serves as a platform to highlight my work.
 ---
 
 ## Connect with me
-[LinkedIn Profile](https://www.linkedin.com/in/amitjaiswar04)
+[LinkedIn Profile](https://www.linkedin.com/in/amit-jais04)
