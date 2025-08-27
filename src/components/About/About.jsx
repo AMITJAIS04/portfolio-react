@@ -23,7 +23,7 @@ function About() {
                     <div className="about-skill"><p>CSS</p><hr style={{width:"56%"}}/></div>
                     <div className="about-skill"><p>JavaScript</p><hr style={{width:"65%"}}/></div>
                     <div className="about-skill"><p>React JS</p><hr style={{width:"68%"}}/></div>
-                    <div className="about-skill"><p>MYSQL</p><hr style={{width:"60%"}}/></div>
+                    <div className="about-skill"><p>MySQL</p><hr style={{width:"60%"}}/></div>
                 </div>
             </div>
         </div>
