@@ -34,4 +34,5 @@ It reflects my learning journey and serves as a platform to highlight my work.
 
 ---
 
-## 📂 Project Structure
+## Connect with me
+[LinkedIn Profile](https://www.linkedin.com/in/amitjaiswar04)
